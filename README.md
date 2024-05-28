@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryanhash
-- 👀 I’m interested in java backend development , react.js ,node.js , Sql, Springboot ,Docker and Cloud computing.
+- 👀 I’m interested in Devops, Python backend development , Sql ,Docker and Cloud computing.
 - 🌱 I’m currently learning Java Springboot and React.js.
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me avesh.arya12456@gmail.com
