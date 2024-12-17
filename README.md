@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanhash
-- 👀 I’m interested in Devops, Python backend development , Sql ,Docker and Cloud computing.
-- 🌱 I’m currently learning Devops , CICD Pipelines and django.
+- 👀 I’m interested in Java and React FullStack development .
+- 🌱 I’m currently learning Springboot and React.
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me avesh.arya12456@gmail.com
 
